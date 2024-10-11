@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Aman Gupta </span>
             from <span className="purple"> Shamli, India.</span>
             <br />
-            I am currently in 3rd Year of BTech in Computer Science.
+            I am a final year student of BTech in Computer Science.
             <br />
             I have done projects in domains like Web Development (MERN stack),
             Machine Learning (Tensorflow, OpenCV, Dlib, NLP).
