@@ -8,6 +8,7 @@ import food from "../../Assets/Projects/food.png";
 import next_word from "../../Assets/Projects/next word.jpg";
 import spam from "../../Assets/Projects/spam.jpg";
 import tbi from "../../Assets/Projects/tbi.png";
+import real from "../../Assets/Projects/real.png";
 
 function Projects() {
   return (
@@ -23,17 +24,11 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
              <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={concent}
+              imgPath={real}
               isBlog={false}
               title="Real E-state Management System"
-              description="•	Addressed real-world challenges by providing a comprehensive
-platform for property owners and buyers, improving transaction
-transparency and user experience.Developed using the MERN stack, enhancing property listing and
-management efficiency.
-- Integrated Google Firebase for secure storage and authentication,
-ensuring reliable data management and user access control.
-              
-              "
+              description="• Addressed real-world challenges by providing a comprehensive platform for property owners and buyers, improving transaction transparency and user experience.Developed using the MERN stack, enhancing property listing and management efficiency.Integrated Google Firebase for secure storage and authentication, ensuring reliable data management and user access control."
+
               ghLink="https://github.com/amangupta3317/Real-E-State-Management-System"
               demoLink="https://real-e-state-management-system.onrender.com"
             />
