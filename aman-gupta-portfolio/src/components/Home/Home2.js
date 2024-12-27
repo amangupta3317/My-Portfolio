@@ -16,8 +16,11 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I am tech enthusiastic person who loves to "code" and "decode".
+              <br />
               Proficient in C, C++ and Data Structures & Algorithm(DSA) makes
               me a strong candidate.
+              <br />
+              <br />
               Working as a DSA Mentor at GeeksforGeeks, I am happy to help 
               others in enhancing their coding skills. 
               
@@ -28,23 +31,12 @@ function Home2() {
               My field of Interest -  &nbsp;
               <i>
                 <b className="purple">Web Technologies </b> and
-                <b className="purple">DevOps</b> and <b className="purple">Cloud Computing</b>.
+                <b className="purple"> DevOps</b> and <b className="purple">Cloud Computing</b>.
               </i>
               <br />I am confident that I have the
               skills and the drive to succeed in the tech industry.
-              {/* <br /> */}
-              {/* Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and */}
-              {/* <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i> */}
+            <br />
+                <br />
             </p>
           </Col>
           <Col md={4} className="myAvtar">
